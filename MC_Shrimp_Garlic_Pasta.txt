@@ -4,7 +4,7 @@ Menu Class: Main Course
 Sub-menu: Main Course plus some sides 
 
 Description:
-This is simple yet irresistable. You can serve a large portion as a main dish at dinner parties.
+This is a new desert menu
 
 Ingredients
 1. 8 ounces spiral pasta
